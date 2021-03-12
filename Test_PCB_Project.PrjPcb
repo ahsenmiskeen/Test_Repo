@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=BA1D25D9-0500-4EA5-892C-4E983266D9AA
+VaultGUID=030792CA-A0C3-4EE9-A2D7-02F8EE38DE49
+ReleaseVaultName=ECAD-MCAD Workspace
+ItemGUID=BA1D25D9-0500-4EA5-892C-4E983266D9AA
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=030792CA-A0C3-4EE9-A2D7-02F8EE38DE49&ItemGUID=5DA73378-0D53-4C69-9C9D-F5E48C737B79&RevisionGUID=41781BFA-9B47-44AC-909E-2CD5B53D5E3F&"MainFilename=PCB_Project.PrjPcb"
 IncludeDesignInRelease=0
 

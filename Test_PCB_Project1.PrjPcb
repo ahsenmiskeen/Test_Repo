@@ -113,8 +113,8 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Altium
-Value=Sogol
+Name=ABCD
+Value=XYZ
 
 [Parameter2]
 Name=Second_Name
@@ -123,6 +123,10 @@ Value=Miskeen
 [Parameter3]
 Name=Name
 Value=Ahsen
+
+[Parameter4]
+Name=Altium
+Value=Sogol
 
 [Configuration1]
 Name=Sources

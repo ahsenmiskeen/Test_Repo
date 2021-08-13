@@ -76,6 +76,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSDRXHDY
 
+[Parameter1]
+Name=Name
+Value=Test
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -195,7 +199,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Laser MFP 131 133 135-138
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
